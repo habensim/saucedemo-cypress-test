@@ -1,0 +1,29 @@
+{
+  "name": "saucedemo-cypress-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cypress:open": "npx cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^9.5.3",
+    "cypress-browser-permissions": "^1.1.0",
+    "cypress-cucumber-preprocessor": "^2.3.1",
+    "cypress-mochawesome-reporter": "^3.0.0",
+    "cypress-xpath": "^1.4.0",
+    "mocha": "^7.2.0",
+    "typescript": "^3.9.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/habensim/saucedemo-cypress-test.git"
+  },
+  "author": "Haben Simanjuntak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/habensim/saucedemo-cypress-test/issues"
+  },
+  "homepage": "https://github.com/habensim/saucedemo-cypress-test#readme"
+}

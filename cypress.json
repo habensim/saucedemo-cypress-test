@@ -1,0 +1,8 @@
+{
+    "viewportWidth": 1280,
+    "viewportHeight": 960,
+    "baseUrl": "https://www.saucedemo.com",
+    "chromeWebSecurity": false,
+    "video": false,
+    "reporter": "cypress-mochawesome-reporter"
+}
